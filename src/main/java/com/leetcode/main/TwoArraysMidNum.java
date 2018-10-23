@@ -22,7 +22,7 @@ public class TwoArraysMidNum {
 
     /**
      * 两个数组从前往后遍历 到中间值停止
-     * o ((m+n)/2)
+     * o (log(m+n))
      */
     public double findMedianSortedArrays2(int[] nums1, int[] nums2) {
         int length1 = nums1.length;
