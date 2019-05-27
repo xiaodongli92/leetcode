@@ -1,5 +1,4 @@
 package com.leetcode.main;
 
-public class TestMain {
-
+public class Main {
 }
