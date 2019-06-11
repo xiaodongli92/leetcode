@@ -26,9 +26,6 @@ public class GetMax {
         if (start == end) {
             return arr[start];
         }
-        if (start < end) {
-            return Math.max(arr[start], arr[end]);
-        }
         return 0;
     }
 
